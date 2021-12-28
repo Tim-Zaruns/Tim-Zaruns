@@ -7,3 +7,6 @@ I'm a Software Developer who focuses on the front-end using Typescript as my mai
 Programming is my main hobby. I'm motivated to take on new challenges and grow as a developer.
 
 ---
+
+🧰 Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
