@@ -20,8 +20,8 @@
 
 ### Latest Projects
 
-• Advanced Todo list with local storage and option to edit tasks used React <a href="https://github.com/Tim-Zaruns/TodoLis">Todo</a>
+• Advanced Todo list with local storage and option to edit tasks, used React <a href="https://github.com/Tim-Zaruns/TodoLis">Todo</a>
 
 • Rock, Paper, Scissors, Lizard, Spock game in a neon style and result history, used React, Redux, Ract Routing <a href="https://github.com/Tim-Zaruns/Game">Game</a>
 
-• Joke Website using API,React, Redux, Routing <a href="https://github.com/Tim-Zaruns/Joke">Joke</a>
+• Joke Website using API, React, Redux, Routing <a href="https://github.com/Tim-Zaruns/Joke">Joke</a>
