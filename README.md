@@ -19,7 +19,7 @@ Programming is my main hobby. I'm motivated to take on new challenges and grow a
 
 ---
 
-Latest Projects
+### Latest Projects
 
 • Advanced Todo list with local storage and option to edit tasks <a href="https://github.com/Tim-Zaruns/TodoLis">Todo</a>
 
