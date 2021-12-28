@@ -5,4 +5,5 @@
 I'm a Software Developer who focuses on the front-end using Typescript as my main tool. The most used technologies listed in the toolbox below.
 
 Programming is my main hobby. I'm motivated to take on new challenges and grow as a developer.
+
 ---
