@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Timofejs Žaruns!
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30px" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
 
 <!--
 **Tim-Zaruns/Tim-Zaruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
