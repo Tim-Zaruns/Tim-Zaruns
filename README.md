@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Timofejs Žaruns!
 
-	[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+	![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 <!--
 **Tim-Zaruns/Tim-Zaruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
